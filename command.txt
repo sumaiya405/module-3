@@ -1,7 +1,12 @@
-
+#initialize a project
 git init
+
+#everytime to add something
 git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sumaiya405/module-3.git
 git push -u origin main
+
+
+this is to make changes
